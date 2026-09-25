@@ -1,0 +1,7 @@
+terminal_id,branch_id,compromise_start,compromise_end,scenario,first_exfiltration,notes
+NRG-WIN-001-POS-02,NRG-WIN-001,2026-08-12T09:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-12T09:18:00,Synthetic injected ground truth; exclude from training features
+NRG-CEN-002-POS-03,NRG-CEN-002,2026-08-15T10:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-15T10:18:00,Synthetic injected ground truth; exclude from training features
+NRG-SOU-004-POS-02,NRG-SOU-004,2026-08-18T11:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-18T11:18:00,Synthetic injected ground truth; exclude from training features
+NRG-EAS-006-POS-01,NRG-EAS-006,2026-08-21T09:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-21T09:18:00,Synthetic injected ground truth; exclude from training features
+NRG-CEN-008-POS-03,NRG-CEN-008,2026-08-24T10:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-24T10:18:00,Synthetic injected ground truth; exclude from training features
+NRG-COA-011-POS-02,NRG-COA-011,2026-08-27T11:00:00,2026-09-25T00:00:00,POS memory scraping and periodic outbound beacon / DNS staging,2026-08-27T11:18:00,Synthetic injected ground truth; exclude from training features

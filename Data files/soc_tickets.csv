@@ -1,0 +1,7 @@
+ticket_id,opened_at,branch_id,terminal_id,source,narrative_text,resolution_text
+TK00000001,2026-08-14T09:00:00,NRG-WIN-001,NRG-WIN-001-POS-02,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review
+TK00000002,2026-08-17T10:00:00,NRG-CEN-002,NRG-CEN-002-POS-03,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review
+TK00000003,2026-08-20T11:00:00,NRG-SOU-004,NRG-SOU-004-POS-02,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review
+TK00000004,2026-08-23T09:00:00,NRG-EAS-006,NRG-EAS-006-POS-01,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review
+TK00000005,2026-08-26T10:00:00,NRG-CEN-008,NRG-CEN-008-POS-03,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review
+TK00000006,2026-08-29T11:00:00,NRG-COA-011,NRG-COA-011-POS-02,SOC,Unexpected POS child process and after-hours outbound sessions; investigate memory scraping and repeated DNS lookups.,Pending analyst review

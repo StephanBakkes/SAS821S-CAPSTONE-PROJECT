@@ -1,0 +1,43 @@
+branch_id,branch_name,region,region_code,town,town_code,locality_type,profile,analysis_scope,trading_open,trading_close,pos_subnet,server_subnet,admin_subnet,staff_count
+NRG-KHO-WDH-001,Windhoek Branch,Khomas,KHO,Windhoek,WDH,municipality,urban,1,07:00,21:00,10.41.10.0/24,10.41.20.0/24,10.41.30.0/24,15
+NRG-ERG-WVB-002,Walvis Bay Branch,Erongo,ERG,Walvis Bay,WVB,municipality,urban,1,07:00,21:00,10.42.10.0/24,10.42.20.0/24,10.42.30.0/24,15
+NRG-ERG-SWK-003,Swakopmund Branch,Erongo,ERG,Swakopmund,SWK,municipality,urban,1,07:00,21:00,10.43.10.0/24,10.43.20.0/24,10.43.30.0/24,15
+NRG-OSA-OSK-004,Oshakati Branch,Oshana,OSA,Oshakati,OSK,town,urban,1,07:00,21:00,10.44.10.0/24,10.44.20.0/24,10.44.30.0/24,15
+NRG-KVE-RUN-005,Rundu Branch,Kavango East,KVE,Rundu,RUN,town,urban,1,07:00,21:00,10.45.10.0/24,10.45.20.0/24,10.45.30.0/24,15
+NRG-OTJ-OTW-006,Otjiwarongo Branch,Otjozondjupa,OTJ,Otjiwarongo,OTW,municipality,urban,1,07:00,21:00,10.46.10.0/24,10.46.20.0/24,10.46.30.0/24,15
+NRG-KHA-KTM-007,Keetmanshoop Branch,//Kharas,KHA,Keetmanshoop,KTM,municipality,urban,1,07:00,21:00,10.47.10.0/24,10.47.20.0/24,10.47.30.0/24,12
+NRG-ZAM-KTM-008,Katima Mulilo Branch,Zambezi,ZAM,Katima Mulilo,KTM,town,urban,1,07:00,21:00,10.48.10.0/24,10.48.20.0/24,10.48.30.0/24,12
+NRG-OSI-TSU-009,Tsumeb Branch,Oshikoto,OSI,Tsumeb,TSU,municipality,urban,1,07:00,21:00,10.49.10.0/24,10.49.20.0/24,10.49.30.0/24,12
+NRG-OME-GOB-010,Gobabis Branch,Omaheke,OME,Gobabis,GOB,municipality,urban,1,07:00,21:00,10.50.10.0/24,10.50.20.0/24,10.50.30.0/24,12
+NRG-HAR-REH-011,Rehoboth Branch,Hardap,HAR,Rehoboth,REH,town,urban,1,07:00,21:00,10.51.10.0/24,10.51.20.0/24,10.51.30.0/24,12
+NRG-OSA-OND-012,Ondangwa Branch,Oshana,OSA,Ondangwa,OND,town,urban,1,07:00,21:00,10.52.10.0/24,10.52.20.0/24,10.52.30.0/24,12
+NRG-KVW-NKR-013,Nkurenkuru Branch,Kavango West,KVW,Nkurenkuru,NKR,town,medium,0,08:00,19:00,10.53.10.0/24,10.53.20.0/24,10.53.30.0/24,15
+NRG-OHA-EEN-014,Eenhana Branch,Ohangwena,OHA,Eenhana,EEN,town,medium,0,08:00,19:00,10.54.10.0/24,10.54.20.0/24,10.54.30.0/24,15
+NRG-OMU-OUT-015,Outapi Branch,Omusati,OMU,Outapi,OUT,town,medium,0,08:00,19:00,10.55.10.0/24,10.55.20.0/24,10.55.30.0/24,15
+NRG-KUN-OPU-016,Opuwo Branch,Kunene,KUN,Opuwo,OPU,town,medium,0,08:00,19:00,10.56.10.0/24,10.56.20.0/24,10.56.30.0/24,15
+NRG-ERG-KRB-017,Karibib Branch,Erongo,ERG,Karibib,KRB,town,medium,0,08:00,19:00,10.57.10.0/24,10.57.20.0/24,10.57.30.0/24,15
+NRG-ERG-OMR-018,Omaruru Branch,Erongo,ERG,Omaruru,OMR,municipality,medium,0,08:00,19:00,10.58.10.0/24,10.58.20.0/24,10.58.30.0/24,15
+NRG-ERG-ARA-019,Arandis Branch,Erongo,ERG,Arandis,ARA,town,medium,0,08:00,19:00,10.59.10.0/24,10.59.20.0/24,10.59.30.0/24,12
+NRG-ERG-HEN-020,Henties Bay Branch,Erongo,ERG,Henties Bay,HEN,municipality,medium,0,08:00,19:00,10.60.10.0/24,10.60.20.0/24,10.60.30.0/24,12
+NRG-ERG-USA-021,Usakos Branch,Erongo,ERG,Usakos,USA,town,medium,0,08:00,19:00,10.61.10.0/24,10.61.20.0/24,10.61.30.0/24,12
+NRG-OTJ-OKH-022,Okahandja Branch,Otjozondjupa,OTJ,Okahandja,OKH,municipality,medium,0,08:00,19:00,10.62.10.0/24,10.62.20.0/24,10.62.30.0/24,12
+NRG-OTJ-GRF-023,Grootfontein Branch,Otjozondjupa,OTJ,Grootfontein,GRF,municipality,medium,0,08:00,19:00,10.63.10.0/24,10.63.20.0/24,10.63.30.0/24,12
+NRG-OTJ-OTA-024,Otavi Branch,Otjozondjupa,OTJ,Otavi,OTA,town,medium,0,08:00,19:00,10.64.10.0/24,10.64.20.0/24,10.64.30.0/24,12
+NRG-OTJ-OKR-025,Okakarara Branch,Otjozondjupa,OTJ,Okakarara,OKR,town,medium,0,08:00,19:00,10.65.10.0/24,10.65.20.0/24,10.65.30.0/24,12
+NRG-KVE-DIV-026,Divundu Branch,Kavango East,KVE,Divundu,DIV,village,medium,0,08:00,19:00,10.66.10.0/24,10.66.20.0/24,10.66.30.0/24,12
+NRG-ZAM-BUK-027,Bukalo Branch,Zambezi,ZAM,Bukalo,BUK,village,medium,0,08:00,19:00,10.67.10.0/24,10.67.20.0/24,10.67.30.0/24,12
+NRG-OHA-HNF-028,Helao Nafidi Branch,Ohangwena,OHA,Helao Nafidi,HNF,town,medium,0,08:00,19:00,10.68.10.0/24,10.68.20.0/24,10.68.30.0/24,12
+NRG-OHA-OKO-029,Okongo Branch,Ohangwena,OHA,Okongo,OKO,village,medium,0,08:00,19:00,10.69.10.0/24,10.69.20.0/24,10.69.30.0/24,12
+NRG-OSA-ONG-030,Ongwediva Branch,Oshana,OSA,Ongwediva,ONG,town,medium,0,08:00,19:00,10.70.10.0/24,10.70.20.0/24,10.70.30.0/24,12
+NRG-OSI-ONI-031,Oniipa Branch,Oshikoto,OSI,Oniipa,ONI,town,rural,0,08:00,19:00,10.71.10.0/24,10.71.20.0/24,10.71.30.0/24,9
+NRG-OSI-OMT-032,Omuthiya Branch,Oshikoto,OSI,Omuthiya,OMT,town,rural,0,08:00,19:00,10.72.10.0/24,10.72.20.0/24,10.72.30.0/24,9
+NRG-OMU-OSU-033,Oshikuku Branch,Omusati,OMU,Oshikuku,OSU,town,rural,0,08:00,19:00,10.73.10.0/24,10.73.20.0/24,10.73.30.0/24,9
+NRG-OMU-OKA-034,Okahao Branch,Omusati,OMU,Okahao,OKA,town,rural,0,08:00,19:00,10.74.10.0/24,10.74.20.0/24,10.74.30.0/24,9
+NRG-OMU-RUA-035,Ruacana Branch,Omusati,OMU,Ruacana,RUA,town,rural,0,08:00,19:00,10.75.10.0/24,10.75.20.0/24,10.75.30.0/24,9
+NRG-KUN-OTJ-036,Outjo Branch,Kunene,KUN,Outjo,OTJ,municipality,rural,0,08:00,19:00,10.76.10.0/24,10.76.20.0/24,10.76.30.0/24,9
+NRG-KUN-KHX-037,Khorixas Branch,Kunene,KUN,Khorixas,KHX,town,rural,0,08:00,19:00,10.77.10.0/24,10.77.20.0/24,10.77.30.0/24,9
+NRG-HAR-MAR-038,Mariental Branch,Hardap,HAR,Mariental,MAR,municipality,rural,0,08:00,19:00,10.78.10.0/24,10.78.20.0/24,10.78.30.0/24,9
+NRG-HAR-ARN-039,Aranos Branch,Hardap,HAR,Aranos,ARN,town,rural,0,08:00,19:00,10.79.10.0/24,10.79.20.0/24,10.79.30.0/24,9
+NRG-KHA-LUD-040,Luderitz Branch,//Kharas,KHA,Luderitz,LUD,town,rural,0,08:00,19:00,10.80.10.0/24,10.80.20.0/24,10.80.30.0/24,9
+NRG-KHA-ORJ-041,Oranjemund Branch,//Kharas,KHA,Oranjemund,ORJ,town,rural,0,08:00,19:00,10.81.10.0/24,10.81.20.0/24,10.81.30.0/24,9
+NRG-OME-OTN-042,Otjinene Branch,Omaheke,OME,Otjinene,OTN,village,rural,0,08:00,19:00,10.82.10.0/24,10.82.20.0/24,10.82.30.0/24,9

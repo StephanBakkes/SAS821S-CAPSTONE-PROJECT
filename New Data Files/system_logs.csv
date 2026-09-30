@@ -1,0 +1,135 @@
+system_event_id,timestamp,branch_id,device_id,provider,event_id,level,message,process_name
+SY00000001,2026-06-13T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000002,2026-06-13T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000003,2026-06-13T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000004,2026-06-14T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000005,2026-06-14T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000006,2026-06-14T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000007,2026-06-14T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000008,2026-06-15T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000009,2026-06-16T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000010,2026-06-16T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000011,2026-06-16T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000012,2026-06-17T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000013,2026-06-19T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000014,2026-06-20T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000015,2026-06-21T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000016,2026-06-22T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000017,2026-06-24T03:30:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000018,2026-06-25T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000019,2026-06-26T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000020,2026-06-26T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000021,2026-06-28T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000022,2026-06-29T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000023,2026-06-29T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000024,2026-06-29T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000025,2026-07-04T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000026,2026-07-04T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000027,2026-07-06T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000028,2026-07-07T03:30:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000029,2026-07-09T03:30:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000030,2026-07-09T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000031,2026-07-09T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000032,2026-07-09T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000033,2026-07-09T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000034,2026-07-10T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000035,2026-07-13T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000036,2026-07-13T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000037,2026-07-14T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000038,2026-07-14T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000039,2026-07-15T03:30:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000040,2026-07-19T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000041,2026-07-21T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000042,2026-07-21T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000043,2026-07-21T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000044,2026-07-26T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000045,2026-07-28T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000046,2026-07-28T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000047,2026-07-29T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000048,2026-07-29T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000049,2026-07-31T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000050,2026-08-01T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000051,2026-08-02T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000052,2026-08-02T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000053,2026-08-05T03:30:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000054,2026-08-07T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000055,2026-08-08T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000056,2026-08-09T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000057,2026-08-10T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000059,2026-08-12T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000058,2026-08-12T09:16:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000060,2026-08-13T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000061,2026-08-15T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000063,2026-08-15T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000062,2026-08-15T09:16:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000064,2026-08-16T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000065,2026-08-16T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000066,2026-08-16T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000067,2026-08-17T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000068,2026-08-17T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000069,2026-08-18T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000071,2026-08-18T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000070,2026-08-18T09:16:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000072,2026-08-19T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000073,2026-08-20T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000074,2026-08-21T09:16:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000075,2026-08-22T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000076,2026-08-22T01:15:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000077,2026-08-22T01:15:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000078,2026-08-22T01:15:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000079,2026-08-22T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000080,2026-08-23T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000081,2026-08-23T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000082,2026-08-24T09:16:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-03,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000083,2026-08-25T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000084,2026-08-26T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000085,2026-08-27T09:16:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Service Control Manager,7045,Information,Unapproved PosSvc service installed; simulated telemetry only,possvc.exe
+SY00000086,2026-08-28T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000087,2026-08-29T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000088,2026-08-29T01:15:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000089,2026-08-29T01:15:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000090,2026-08-29T01:15:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000091,2026-08-29T01:15:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000092,2026-08-29T01:15:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000093,2026-08-31T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000094,2026-08-31T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000095,2026-09-02T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000096,2026-09-02T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000097,2026-09-05T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000098,2026-09-05T01:15:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000099,2026-09-05T01:15:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000100,2026-09-05T01:15:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000101,2026-09-05T01:15:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000103,2026-09-05T01:15:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000102,2026-09-05T03:30:00,NRG-OME-GOB-010,NRG-OME-GOB-010-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000104,2026-09-07T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000105,2026-09-12T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000106,2026-09-12T01:15:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000107,2026-09-12T01:15:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000108,2026-09-12T01:15:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000110,2026-09-12T01:15:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000111,2026-09-12T01:15:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000109,2026-09-12T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000112,2026-09-14T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000113,2026-09-15T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000114,2026-09-18T03:30:00,NRG-ERG-SWK-003,NRG-ERG-SWK-003-POS-05,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000115,2026-09-18T03:30:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000116,2026-09-19T01:15:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000117,2026-09-19T01:15:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000119,2026-09-19T01:15:00,NRG-OSA-OSK-004,NRG-OSA-OSK-004-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000120,2026-09-19T01:15:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-01,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000121,2026-09-19T01:15:00,NRG-ZAM-KTM-008,NRG-ZAM-KTM-008-POS-03,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000123,2026-09-19T01:15:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-02,Microsoft-Windows-Security-Auditing,4688,Information,Simulated process activity following established compromise,possvc.exe
+SY00000118,2026-09-19T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000122,2026-09-19T03:30:00,NRG-HAR-REH-011,NRG-HAR-REH-011-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000124,2026-09-20T03:30:00,NRG-KVE-RUN-005,NRG-KVE-RUN-005-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000125,2026-09-20T03:30:00,NRG-OTJ-OTW-006,NRG-OTJ-OTW-006-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000126,2026-09-20T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000127,2026-09-21T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000128,2026-09-21T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-04,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000129,2026-09-21T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-03,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000130,2026-09-22T03:30:00,NRG-OSA-OND-012,NRG-OSA-OND-012-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000131,2026-09-23T03:30:00,NRG-ERG-WVB-002,NRG-ERG-WVB-002-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000132,2026-09-24T03:30:00,NRG-KHO-WDH-001,NRG-KHO-WDH-001-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000133,2026-09-24T03:30:00,NRG-KHA-KTM-007,NRG-KHA-KTM-007-POS-02,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe
+SY00000134,2026-09-24T03:30:00,NRG-OSI-TSU-009,NRG-OSI-TSU-009-POS-01,Microsoft-Windows-WindowsUpdateClient,19,Information,Approved Windows update installed,svchost.exe

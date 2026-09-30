@@ -1,0 +1,40 @@
+{
+  "seed": 82119,
+  "window_start_inclusive": "2026-06-13T00:00:00",
+  "analysis_start_inclusive": "2026-06-27T00:00:00",
+  "window_end_exclusive": "2026-09-25T00:00:00",
+  "baseline_days": 14,
+  "analysis_days": 90,
+  "synthetic": true,
+  "counts": {
+    "branches.csv": 42,
+    "devices.csv": 252,
+    "shifts.csv": 5616,
+    "pos_events.csv": 54250,
+    "payment_auth.csv": 53344,
+    "inventory_exceptions.csv": 906,
+    "edr_events.csv": 168,
+    "network_flows.csv": 31012,
+    "dns_logs.csv": 29376,
+    "authentication_logs.csv": 5723,
+    "system_logs.csv": 134,
+    "soc_tickets.csv": 6,
+    "ground_truth_private.csv": 6
+  },
+  "sha256": {
+    "branches.csv": "ce086c50720f9c577fe7fe7d573a89cb0197a2b300d3e932af5d161d2375462d",
+    "devices.csv": "52e4b513bb7fc1ca11455d01f2a5803e9e0a4456cf1981178d6aacac04f3cd2d",
+    "shifts.csv": "2e13687a22f2595d718d74839489564dc7948d19ba35ccc7ca896f6f3b84db70",
+    "pos_events.csv": "c2c4fb48232dfe0e1a83cab2c042f78954964ddb103dc688b28bf01719ef7ca1",
+    "payment_auth.csv": "c9e52a4da6672a1eb87af19df14bd0f33a9b996c8fe5b7596322593bd332a556",
+    "inventory_exceptions.csv": "b3a5b22670852368c817350841e5db56a5150b265f17fc3d5e0bb14c882cd2b9",
+    "edr_events.csv": "8ba1973d860613abad2d8d09657df60a93067613c8bde2a0946ebd52f08a8bf0",
+    "network_flows.csv": "22ae53a221cd4f00b990d07182af3e9fa4f84140ac49674a89aabb30824f2eb4",
+    "dns_logs.csv": "21c5dfa97ca0c71b2dd24d28730c9d4a54b5eb80d9477c3325ba6b894378776a",
+    "authentication_logs.csv": "472441483898ab0b5013ce6d4ad2459c04061bb75273f4fcf5ab831ca25bf6cf",
+    "system_logs.csv": "4acd4ebc188e088ef388b5ff5d21a905f46cabe04225674392a305bec65a6691",
+    "soc_tickets.csv": "79c7dab22641b8aedc9b4869267049f9ed107e62e5a2383a7ea72ff0223e847c",
+    "ground_truth_private.csv": "950cc9a7e784d1ad4965de29e968296b91248a01621a52943c9e9118b9b820fc"
+  },
+  "ground_truth_is_private": "ground_truth_private.csv; exclude from ingestion and model features"
+}

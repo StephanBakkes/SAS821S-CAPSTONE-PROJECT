@@ -1,0 +1,7 @@
+terminal_id,branch_id,compromise_start,compromise_end,entry_vector,parent_device_id,vpn_session_id,first_exfiltration,notes
+NRG-KHO-WDH-001-POS-02,NRG-KHO-WDH-001,2026-08-12T09:15:00,2026-09-25T00:00:00,vpn_brute_force,NRG-KHO-WDH-001-ADM-01,VPN-INITIAL-20260812,2026-08-12T13:02:00,Synthetic injected ground truth; exclude from training features
+NRG-ERG-WVB-002-POS-03,NRG-ERG-WVB-002,2026-08-15T09:15:00,2026-09-25T00:00:00,cross_branch_lateral_movement,NRG-KHO-WDH-001-POS-02,,2026-08-15T13:03:00,Synthetic injected ground truth; exclude from training features
+NRG-OSA-OSK-004-POS-02,NRG-OSA-OSK-004,2026-08-18T09:15:00,2026-09-25T00:00:00,cross_branch_lateral_movement,NRG-ERG-WVB-002-POS-03,,2026-08-18T13:01:00,Synthetic injected ground truth; exclude from training features
+NRG-OTJ-OTW-006-POS-01,NRG-OTJ-OTW-006,2026-08-21T09:15:00,2026-09-25T00:00:00,cross_branch_lateral_movement,NRG-OSA-OSK-004-POS-02,,2026-08-21T13:00:00,Synthetic injected ground truth; exclude from training features
+NRG-ZAM-KTM-008-POS-03,NRG-ZAM-KTM-008,2026-08-24T09:15:00,2026-09-25T00:00:00,cross_branch_lateral_movement,NRG-OTJ-OTW-006-POS-01,,2026-08-24T13:04:00,Synthetic injected ground truth; exclude from training features
+NRG-HAR-REH-011-POS-02,NRG-HAR-REH-011,2026-08-27T09:15:00,2026-09-25T00:00:00,cross_branch_lateral_movement,NRG-ZAM-KTM-008-POS-03,,2026-08-27T13:04:00,Synthetic injected ground truth; exclude from training features
